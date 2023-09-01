@@ -1,0 +1,11 @@
+name: ChiddoriSnake
+version: '${project.version}'
+main: me.chiddori.chiddorisnake.ChiddoriSnake
+authors: [ Chiddori ]
+description: Интерпретация легендарной игры змейка в GUI меню. Сделано специально для GoldMine
+website: https://vk.com/d1xess
+commands:
+  zmeyka: {}
+permissions:
+  chiddorisnake.use:
+    default: not op

@@ -1,0 +1,73 @@
+sceneSettings:
+  invName: 'Змейка:)'
+
+  # Если змейка плохо работает и у вас версия ниже 1.16.5 то замените значение переменной ниже на 'true'
+  isDeprecatedVersion: true
+
+  snakeHeadAlive:
+    name: '&7Головка змейки'
+    headOwnerName: 'Swapex'
+    lore:
+      - ''
+  snakeBodyAlive:
+    name: '&7Хвост змеи(хуй)'
+    headOwnerName: 'Trajan'
+    lore:
+      - ''
+  snakeHeadDead:
+    name: '&7Головка мертвой змейки'
+    headOwnerName: 'iTz_Meme'
+    lore:
+      - ''
+  snakeBodyDead:
+    name: '&7Хвост мертвой змеи(хуй)'
+    headOwnerName: 'MHF_Redstone'
+    lore:
+      - ''
+  eatingObj:
+    name: '&aЯблоко'
+    headOwnerName: 'MHF_Apple'
+    lore:
+      - ''
+
+
+
+controlPanelSettings:
+
+  itemToFillEmptySlots:
+    itemName: 'STAINED_GLASS_PANE'
+    name: '&aВаша реклама'
+    lore:
+      - '&c************'
+
+  buttonUp:
+    name: '&aДвижение вверх'
+    headOwnerName: 'MHF_ArrowUP'
+    lore:
+      - '&c[&7Нажмите чтобы змея двигалась вверх&c]'
+  buttonDown:
+    name: '&aДвижение вниз'
+    headOwnerName: 'MHF_ArrowDown'
+    lore:
+      - '&c[&7Нажмите чтобы змея двигалась вниз&c]'
+  buttonRight:
+    name: '&aДвижение вправо'
+    headOwnerName: 'MHF_ArrowRight'
+    lore:
+      - '&c[&7Нажмите чтобы змея двигалась вправо&c]'
+  buttonLeft:
+    name: '&aДвижение влево'
+    headOwnerName: 'MHF_ArrowLeft'
+    lore:
+      - '&c[&7Нажмите чтобы змея двигалась влево&c]'
+  buttonRestart:
+    name: '&aПерезапустить игру'
+    headOwnerName: 'ilikminecraft'
+    lore:
+      - '&c[&7Нажмите для перезагрузки&c]'
+  buttonInfo:
+    name: '&aПравила игры'
+    headOwnerName: 'Booperr'
+    lore:
+      - '&c[&7Напишите тут правила игры(мне лень)&7]'
+      - '&cхуй'
